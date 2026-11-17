@@ -1,4 +1,4 @@
-# 🔥 Penetration Testing Report of Custom Netowork using CyberBattleSim and comparison with other simulators and real life tools
+# 🔥 Penetration Testing Report of Custom Network using CyberBattleSim and comparison with other simulators and real life tools
 **From Simulation to Real-World Penetration Testing & Ethical Hacking**
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
